@@ -1,0 +1,15 @@
+C:\Practice_01\Practice_01\Programa_06\bin\Debug\net5.0\Programa_06.exe
+C:\Practice_01\Practice_01\Programa_06\bin\Debug\net5.0\Programa_06.deps.json
+C:\Practice_01\Practice_01\Programa_06\bin\Debug\net5.0\Programa_06.runtimeconfig.json
+C:\Practice_01\Practice_01\Programa_06\bin\Debug\net5.0\Programa_06.runtimeconfig.dev.json
+C:\Practice_01\Practice_01\Programa_06\bin\Debug\net5.0\Programa_06.dll
+C:\Practice_01\Practice_01\Programa_06\bin\Debug\net5.0\ref\Programa_06.dll
+C:\Practice_01\Practice_01\Programa_06\bin\Debug\net5.0\Programa_06.pdb
+C:\Practice_01\Practice_01\Programa_06\obj\Debug\net5.0\Programa_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice_01\Practice_01\Programa_06\obj\Debug\net5.0\Programa_06.AssemblyInfoInputs.cache
+C:\Practice_01\Practice_01\Programa_06\obj\Debug\net5.0\Programa_06.AssemblyInfo.cs
+C:\Practice_01\Practice_01\Programa_06\obj\Debug\net5.0\Programa_06.csproj.CoreCompileInputs.cache
+C:\Practice_01\Practice_01\Programa_06\obj\Debug\net5.0\Programa_06.dll
+C:\Practice_01\Practice_01\Programa_06\obj\Debug\net5.0\ref\Programa_06.dll
+C:\Practice_01\Practice_01\Programa_06\obj\Debug\net5.0\Programa_06.pdb
+C:\Practice_01\Practice_01\Programa_06\obj\Debug\net5.0\Programa_06.genruntimeconfig.cache
